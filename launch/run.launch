@@ -1,5 +1,4 @@
 <launch>
-
     <arg name="project" default="lio_sam"/>
     
     <!-- Parameters -->
